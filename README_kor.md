@@ -21,7 +21,7 @@ comparison_1은 helpfulness, comparison_2는 readability를, comparison_3은 har
 - [KORani-v1](https://huggingface.co/KRAFTON/KORani-v1-13B) : krafton-ai에서 공개한 Polyglot 12.8B 기반 모델입니다.
 - [KULLM-v2](https://huggingface.co/nlpai-lab/kullm-polyglot-12.8b-v2) : NLP & AI 연구실과 HIAI 연구소가 공개한 Polyglot 12.8B 기반 모델입니다.
 - sft-v4.3 (NeoGPT) : SFT 데이터로 학습한 Polyglot 5.8B 기반 모델입니다.
-- rrhf-v0.5 (NeoGPT) : sft-v4.3를 RRHF로 추가 학습한 모델입니다. 
+- rrhf-v0.5 (NeoGPT) : sft-v4.3를 [RRHF](https://arxiv.org/abs/2304.05302)로 추가 학습한 모델입니다. 
 
 ### 평가용 Prompt
 
